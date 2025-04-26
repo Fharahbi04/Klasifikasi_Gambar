@@ -1,4 +1,4 @@
-# Klasifikasi Gambar Buah-buaha
+# Klasifikasi Gambar Buah-buahan
 Model Klasifikasi sederhana untuk membedakan gambar buah-buahan
 
 ## Fitur
